@@ -1,0 +1,6 @@
+NAME=alarm-fake-hwclock
+VERSION=a01221b
+REVISION=1
+SRC=https://api.github.com/repos/xanmanning/alarm-fake-hwclock/tarball/a01221b77da7bcd9103034ff8b62c0d1c090c58f
+SRCFILE=xanmanning-alarm-fake-hwclock-v0.1b-7-ga01221b.tar.gz
+SRCMD5=f4605d4bf66b126d22194a74d6118d54
