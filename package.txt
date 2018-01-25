@@ -1,5 +1,6 @@
 NAME=alarm-fake-hwclock
 VERSION=master
-REVISION=2
-SRC=https://github.com/xanmanning/alarm-fake-hwclock.git
-REPOREF=refs/heads/master
+REVISION=3
+SRC=https://api.github.com/repos/xanmanning/alarm-fake-hwclock/tarball/master
+SRCFILE=alarm-fake-hwclock-git-master.tar.gz
+SRCMD5=f4605d4bf66b126d22194a74d6118d54
